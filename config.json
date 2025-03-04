@@ -1,0 +1,5 @@
+{
+    "tickers": ["AAPL", "GOOGL", "MSFT"],
+    "period": "3mo",
+    "interval": "1d"
+}
